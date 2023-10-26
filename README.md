@@ -4,4 +4,6 @@ Playground for git
 
 ## Log
 
-Commit 1
+Commit main 2
+Commit feature 3
+Commit main 4
